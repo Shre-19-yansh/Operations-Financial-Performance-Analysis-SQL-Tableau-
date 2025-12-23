@@ -1,4 +1,4 @@
-# 📊 Operations & Financial Performance Analysis (SQL & Tableau)
+# 📊 Operations & Financial Performance Analysis 
 
 ## 📌 Project Overview
 This project analyses operational and financial performance data to evaluate how effectively production planning translates into execution. Using SQL for analysis and Tableau for visualization, the project examines production efficiency, cost behavior, profitability, and capacity utilization to derive actionable business insights.
