@@ -9,11 +9,12 @@ It is designed to reflect real-world analytical tasks expected in **data analyst
 
 ## 📂 Repository Structure
 - **README.md** – Project documentation  
-- **SQL_Case_Study.sql** – SQL queries used for analysis  
-- **Tableau_Dashboard.twbx** – Interactive Tableau dashboards  
-- **Dataset.csv** – Case-study operational dataset  
-- **Case_Study_Analysis.md / PDF** – Question-wise analysis and insights  
-- **Dashboard_Screenshots/** – Exported dashboard visuals
+- **Case_Study_Solution.md** – Question, SQL Queries and Visulization used for analysis and decision making.     
+- **OFRD** – Operational dataset containing production volume, revenue, cost components (labour, material, energy, fixed), shift details, production lines, plan vs actual
+             metrics, and time dimensions (date, week, month, quarter)
+
+
+
 
   
 
